@@ -11,4 +11,5 @@ This library aims to be a [Huggingface Transformers](https://github.com/huggingf
 ### Examples
 - [ ] Attention Patterns
 - [ ] Activation Patching
+- [ ] Attribution Patching
 - [ ] ACDC
