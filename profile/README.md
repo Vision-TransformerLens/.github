@@ -13,7 +13,7 @@ This library aims to be a [Huggingface Transformers](https://github.com/huggingf
 
 Go through example.py
 
-- [ ] Finish ViT-B-16 example
+- [X] Finish ViT-B-16 example
 - [ ] Look into HookedTransformer 
 - [ ] Look into model.run_with_hooks()
 
